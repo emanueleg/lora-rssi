@@ -1,2 +1,2 @@
 # lora-rssi
-Experimental data set RSSI measurements collected using LoRa
+Experimental dataset of LoRa RSSI measurements collected both indoin and in a real urban environment
