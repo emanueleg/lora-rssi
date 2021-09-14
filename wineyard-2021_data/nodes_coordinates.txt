@@ -1,0 +1,11 @@
+device ID   device brand/model      latitude (N)        longitude(E)
+---------   --------------------      ------------------  ------------------
+gateway-01  Mikrotik wAP LR9 kit    44.821957           10.815304
+tinovi-01   Tinovi PM-IO-5-SM       44.822073400339981  10.815745652887379
+tinovi-02   Tinovi PM-IO-5-SM       44.823122175066679  10.81638157790559
+tinovi-03   Tinovi PM-IO-5-SM       44.82457105755545   10.81725847759737
+tinovi-04   Tinovi PM-IO-5-SM       44.82375277777778   10.81694166666667
+tinovi-05   Tinovi PM-IO-5-SM       44.82244371876236   10.81619243363089
+tinovi-06   Tinovi PM-IO-5-SM       44.82197252644758   10.81612277256111
+tinovi-07   Tinovi PM-IO-5-SM       44.82294444444445   10.81670277777778
+tinovi-08   Tinovi PM-IO-5-SM       44.82445862158094   10.8176270471526
