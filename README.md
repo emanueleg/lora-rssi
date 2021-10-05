@@ -1,4 +1,4 @@
-# Experimental datasets of LoRa RSSI measurements
+# Experimental datasets of LoRa / LoRaWAN RSSI measurements
 
 ## LoRaWAN weather and signal strength dataset 
 
