@@ -6,9 +6,7 @@ Dataset location: [/vineyard-2021_data](/vineyard-2021_data)
 
 This is an experimental dataset of RSSI and SNR information, along with temperature, humidity and pressure data obtained from 8 LoRaWAN nodes and a reference weather station.
 
-More details on the experimental setup and the tests carried out are under review. 
-
-Please contact us if you plan to use this dataset.
+More details on the experimental setup and the tests carried out have been published in our article entitled [Correlation between weather and signal strength in LoRaWAN networks: An extensive dataset](https://doi.org/10.1016/j.comnet.2021.108627).
 
 If you use this dataset, please cite our work as:
 
