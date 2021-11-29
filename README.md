@@ -10,6 +10,24 @@ More details on the experimental setup and the tests carried out are under revie
 
 Please contact us if you plan to use this dataset.
 
+If you use this dataset, please cite our work as:
+
+E. Goldoni, P. Savazzi, L. Favalli, A. Vizziello, _Correlation between weather and signal strength in LoRaWAN networks: An extensive dataset_, Computer Networks (2021).
+
+bibtex:
+```
+@article{Goldoni2021,
+  title = {Correlation between weather and signal strength in LoRaWAN networks: An extensive dataset},
+  journal = {Computer Networks},
+  pages = {108627},
+  year = {2021},
+  issn = {1389-1286},
+  doi = {https://doi.org/10.1016/j.comnet.2021.108627},
+  url = {https://www.sciencedirect.com/science/article/pii/S138912862100517X},
+  author = {Emanuele Goldoni and Pietro Savazzi and Lorenzo Favalli and Anna Vizziello}
+}
+```
+
 ## LoRa indoor and outdoor localization datataset 
 
 This is an experimental dataset of LoRa RSSI measurements collected both indoor and in a real urban environment. 
